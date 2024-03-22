@@ -29,7 +29,8 @@
   **Remote Repositories**
 
   - **git remote add origin <repository_url>** Add a remote repository named "origin".
-  - **git push origin <branch_name>** Push changes from local branch to the remote repository.
+  - **git push origin <branch_name>** Push changes from local branch origina to the remote repository.
+    - **git push origin main**
   - **git pull origin <branch_name>** Fetch and merge changes from the remote repository.
 
   **Advanced Commands**
